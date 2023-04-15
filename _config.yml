@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "뺀질이가 이끌어가는 세상"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Kim Jung Woo"
 description              : "An amazing website."
 url                      : "https://kimjungwoo0524.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
